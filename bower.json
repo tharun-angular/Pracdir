@@ -1,0 +1,22 @@
+{
+  "name": "Tar",
+  "description": "pracderc",
+  "main": "index",
+  "moduleType": [],
+  "keywords": [
+    "k"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.8"
+  }
+}
