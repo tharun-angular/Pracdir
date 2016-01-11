@@ -1,0 +1,19 @@
+{
+  "name": "tar",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[Dpackbower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharun-angular/Pracdir.git"
+  },
+  "author": "\"\"\u001b[DGtar\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharun-angular/Pracdir/issues"
+  },
+  "homepage": "https://github.com/tharun-angular/Pracdir#readme"
+}
